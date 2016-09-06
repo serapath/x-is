@@ -1,0 +1,28 @@
+{
+  "name": "x-is",
+  "version": "1.0.0",
+  "description": "collection of all 'x-is-...' to test types of values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/x-is.git"
+  },
+  "keywords": [
+    "ducktype",
+    "ducktyping",
+    "test",
+    "types",
+    "typeof",
+    "instanceof",
+    "typed"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/x-is/issues"
+  },
+  "homepage": "https://github.com/serapath/x-is#readme"
+}
